@@ -158,7 +158,6 @@ body {
 
 .listItem {
 	width: 24%;
-	background: #fff;
 	padding: 15px;
 	margin-bottom: 10px;
 	margin: 5px;
@@ -287,4 +286,28 @@ body {
 
 .typeList li.fairy {
 	background-color: #e999de
+}
+
+.fire {
+    background: #fe7500;
+}
+
+.water {
+    background: #6a87f3;
+}
+
+.grass {
+    background-color: #53d34e;
+}
+
+.thunder {
+    background-color: #e3c260;
+}
+
+.psychic {
+    background-color: #ff2482;
+}
+
+.ice {
+    background-color: #b282f2;
 }
